@@ -6,7 +6,8 @@
 
 <h3 align="center">About Me:</h3>
 
-<p align="center" >
+<p align="center">
+
 - 🔭 I’m currently working on <b>Status Saver (Android App)</b>
 
 - 🌱 I’m currently learning <b>Flutter</b>
@@ -16,6 +17,7 @@
 - 📫 How to reach me vortexcodedev@gmail.com
 
 - ⚡ Fun fact <b>Call me as PD</b>
+
 </p>
 
 
