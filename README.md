@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=peshaladilshan&label=Profile%20views&color=0e75b6&style=flat" alt="peshaladilshan" /> </p>
 
-<p align="center">## 💫 About Me:</p>
+<h2 align="center">💫 About Me:</h2>
 
 - 🔭 I’m currently working on **Status Saver (Android App)**
 
