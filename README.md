@@ -7,15 +7,15 @@
 <h3 align="center">About Me:</h3>
 
 <p align="center" >
-- 🔭 I’m currently working on **Status Saver (Android App)**
+- 🔭 I’m currently working on <b>Status Saver (Android App)</b>
 
-- 🌱 I’m currently learning **Flutter, Kotlin**
+- 🌱 I’m currently learning <b>Flutter</b>
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about <b>Java</b>
 
-- 📫 How to reach me **vortexcodedev@gmail.com**
+- 📫 How to reach me vortexcodedev@gmail.com
 
-- ⚡ Fun fact **Call me as PD**
+- ⚡ Fun fact <b>Call me as PD</b>
 </p>
 
 
