@@ -39,6 +39,6 @@
 
 <h3 align="center">💰 You can help me by Donating</h3>
 
-<a align="center" href="https://buymeacoffee.com/peshaladilshan"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" align="center"></a>
+<p align="center" ><a  href="https://buymeacoffee.com/peshaladilshan"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a></p>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
