@@ -62,15 +62,18 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=PeshalaDilshan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PeshalaDilshan&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PeshalaDilshan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center" >
+<img src="https://github-readme-stats.vercel.app/api?username=PeshalaDilshan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PeshalaDilshan&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeshalaDilshan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center" >
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
 
 ---
 
