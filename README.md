@@ -1,9 +1,10 @@
+<!-- Header -->
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100" alt="Profile Picture">
 </p>
 
 <h1 align="center">Hello! 👋 I'm Peshala Dilshan</h1>
-<h3 align="center">Frontend Developer | Flutter Enthusiast</h3>
+<h3 align="center">Frontend Developer | Flutter Enthusiast | Java Advocate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=peshaladilshan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
@@ -13,9 +14,11 @@
 
 ### About Me
 
+I'm a passionate frontend developer from Sri Lanka, currently working on exciting projects and learning new technologies. I love creating innovative solutions and contributing to meaningful projects.
+
 - 🔭 **Currently Working On**: Status Saver (Android App)
 - 🌱 **Currently Learning**: Flutter
-- 💬 **Ask Me About**: Java
+- 💬 **Ask Me About**: Java, Frontend Development
 - 📫 **Reach Me At**: [vortexcodedev@gmail.com](mailto:vortexcodedev@gmail.com)
 - ⚡ **Fun Fact**: You can call me PD
 
