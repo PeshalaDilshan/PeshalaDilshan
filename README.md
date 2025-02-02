@@ -88,3 +88,6 @@ I'm a passionate frontend developer from Sri Lanka, currently working on excitin
 </p>
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+
+<!-- Anyone can free to use this repo 
+by Peshala Dilshan -->
