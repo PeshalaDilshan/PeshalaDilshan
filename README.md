@@ -16,7 +16,7 @@
 
 I'm a passionate frontend developer from Sri Lanka, currently working on exciting projects and learning new technologies. I love creating innovative solutions and contributing to meaningful projects.
 
-- 🔭 **Currently Working On**: Status Saver (Android App)
+- 🔭 **Currently Working On**: SocialSnap App
 - 🌱 **Currently Learning**: Flutter
 - 💬 **Ask Me About**: Java, Frontend Development
 - 📫 **Reach Me At**: [vortexcodedev@gmail.com](mailto:vortexcodedev@gmail.com)
