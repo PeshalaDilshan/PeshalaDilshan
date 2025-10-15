@@ -17,8 +17,7 @@
 I'm a passionate frontend developer from Sri Lanka, currently working on exciting projects and learning new technologies. I love creating innovative solutions and contributing to meaningful projects.
 
 - 🔭 **Currently Working On**: SocialSnap App
-- 🌱 **Currently Learning**: Flutter
-- 💬 **Ask Me About**: Java, Frontend Development
+- 🌱 **Currently Learning**: Dart, Typescript
 - 📫 **Reach Me At**: [vortexcodedev@gmail.com](mailto:vortexcodedev@gmail.com)
 - ⚡ **Fun Fact**: You can call me PD
 
