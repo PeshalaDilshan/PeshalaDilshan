@@ -16,9 +16,9 @@
 
 I'm a passionate frontend developer from Sri Lanka, currently working on exciting projects and learning new technologies. I love creating innovative solutions and contributing to meaningful projects.
 
-- 🔭 **Currently Working On**: SocialSnap App
-- 🌱 **Currently Learning**: Dart, Typescript
-- 📫 **Reach Me At**: [vortexcodedev@gmail.com](mailto:vortexcodedev@gmail.com)
+- 🔭 **Currently Working On**: Omnimeet Backe
+- 🌱 **Currently Learning**: Go, Dart
+- 📫 **Reach Me At**: [Mail](mailto:itsmepeshala@proton.me)
 - ⚡ **Fun Fact**: You can call me PD
 
 ---
