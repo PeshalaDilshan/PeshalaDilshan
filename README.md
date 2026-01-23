@@ -16,7 +16,7 @@
 
 I'm a passionate frontend developer from Sri Lanka, currently working on exciting projects and learning new technologies. I love creating innovative solutions and contributing to meaningful projects.
 
-- 🔭 **Currently Working On**: Omnimeet Backe
+- 🔭 **Currently Working On**: Omnimeet Backend
 - 🌱 **Currently Learning**: Go, Dart
 - 📫 **Reach Me At**: [Mail](mailto:itsmepeshala@proton.me)
 - ⚡ **Fun Fact**: You can call me PD
